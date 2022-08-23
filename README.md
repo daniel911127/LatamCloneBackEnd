@@ -12,3 +12,4 @@ todas las funcionalidades que poseen para brindar el servicio.
 
 - Daniel Moreno
 - Jairo Jair Toro Novellis
+- Noah Zapata Puerta
