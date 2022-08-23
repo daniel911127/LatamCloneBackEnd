@@ -10,4 +10,5 @@ todas las funcionalidades que poseen para brindar el servicio.
 
 # Members
 
--Daniel Moreno
+- Daniel Moreno
+- Jairo Jair Toro Novellis
